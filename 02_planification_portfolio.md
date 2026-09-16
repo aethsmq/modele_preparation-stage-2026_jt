@@ -1,9 +1,9 @@
 # Compétences
 Cochez les compétences que vous aimeriez utiliser en stage. Ajoutez-en au besoin.:     
-- [ ] Designer, coder et publier des sites Web dynamiques    
-- [ ] Réaliser et tourner des vidéos    
-- [ ] Animer des créations 2D et 3D    
-- [ ] Concevoir des compositions sonores et visuelles interactives    
+- [x] Designer, coder et publier des sites Web dynamiques    
+- [x] Réaliser et tourner des vidéos    
+- [x] Animer des créations 2D et 3D    
+- [x] Concevoir des compositions sonores et visuelles interactives    
 - [ ] Assembler des environnements de réalité virtuelle    
 - [ ] Élaborer des spectacles augmentés    
 - [ ] Exploiter les nouvelles technologies et leur potentiel créateur    
@@ -14,27 +14,27 @@ Cochez les compétences que vous aimeriez utiliser en stage. Ajoutez-en au besoi
 
 # Logiciels 
 Cochez les logiciels avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:     
-- [ ] Visual Studio Code
-- [ ] Photoshop
-- [ ] Illustrator
+- [x] Visual Studio Code
+- [x] Photoshop
+- [x] Illustrator
 - [ ] Lightroom
 - [ ] Premiere
 - [ ] Media Encoder
-- [ ] After Effects
-- [ ] Davinci Resolve
-- [ ] Maya
+- [x] After Effects
+- [x] Davinci Resolve
+- [x] Maya
 - [ ] Unity
 - [ ] Reaper
 - [ ] Ableton Live
 - [ ] Max
 - [ ] Arduino
 - [ ] MadMapper
-- [ ] Microsoft Teams
+- [x] Microsoft Teams
 
 # Langage de programmation
 Cochez les langages avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:    
-- [ ] HTML
-- [ ] CSS
+- [x] HTML
+- [x] CSS
 - [ ] JavaScript
 - [ ] PHP
 - [ ] SQL
@@ -133,6 +133,5 @@ Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, .
 
 # Processus de création
 Sélectionnez un de vos projets et insérez son processus de création. À l'aide d'images et de texte vous devez nous expliquer le processus de création étape par étape de votre projet. 
-
 
 
