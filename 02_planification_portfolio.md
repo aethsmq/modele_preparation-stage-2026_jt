@@ -53,31 +53,31 @@ Un poste en design, animation 2D/3D ou video.
 
 # Projet 1
 
-**Nom de votre projet:** métamorphose
-**Mention académique ou personnel:** académique  
-**Réalisé dans le cadre du cours:** video 2
-**Individuel ou en équipe:** en équipe
-**Nom de vos coéquipiers:** Edelwyn , Sabrina  
-**Votre ou vos rôle(s) dans le projet:** montage vidéo, montage sonore  
-**Logiciels ou techniques utilisées:** davinci resolve, reaper
-**Catégorie du projet:** montage vidéo
-**Description courte du projet (Résumé en 1 phrase):** montage vidéo ésthétique avec une camera de rapprochement.
-**Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):** un montage video avec une camera de rapprochement. d'environ 1 minute avec un piste sonore.
+**Nom de votre projet:** métamorphose <br>
+**Mention académique ou personnel:** académique <br>
+**Réalisé dans le cadre du cours:** video 2 <br>
+**Individuel ou en équipe:** en équipe <br>
+**Nom de vos coéquipiers:** Edelwyn , Sabrina <br>
+**Votre ou vos rôle(s) dans le projet:** montage vidéo, montage sonore <br>
+**Logiciels ou techniques utilisées:** davinci resolve, reaper <br>
+**Catégorie du projet:** montage vidéo <br>
+**Description courte du projet (Résumé en 1 phrase):** montage vidéo ésthétique avec une camera de rapprochement. <br>
+**Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):** un montage video avec une camera de rapprochement. d'environ 1 minute avec un piste sonore. <br>
 **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):** Nous avons réalisé un projet très inspiré de l'univers des sirènes, en mettant l'accent sur le maquillage et le visage tout en utilisant le même objectif. Nous avons privilégié les nuances de bleu et de violet pour coller à l'ambiance sous-marine, et avons choisi une bande-son qui s'harmonisait avec les vidéos, évoquant le calme et le mystère.
 https://cmontmorency365-my.sharepoint.com/:f:/g/personal/2396043_cmontmorency_qc_ca/IgCtLzL24NtkTJBXe-mg-a4kAffVxBYRYKNpND4v7-MWQ80?e=UT0f9j
 
 # Projet 2
 
-**Nom de votre projet:**la réfelction perdu
-**Mention académique ou personnel:** académique
-**Réalisé dans le cadre du cours:** video 2
-**Individuel ou en équipe:** en équipe
-**Nom de vos coéquipiers:** edelwyn, Sabrina
-**Votre ou vos rôle(s) dans le projet:** montage vidéo
-**Logiciels ou techniques utilisées:** davinci resolve
-**Catégorie du projet:** montage vidéo
-**Description courte du projet (Résumé en 1 phrase):** un projet sur une fille dans un metro, lisant un livre et remarque vite qu'elle a changer de dimension, trouvant une fille identique à elle.
-**Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):** ... montage video avec 3 screens
+**Nom de votre projet:**la réfelction perdu <br>
+**Mention académique ou personnel:** académique <br>
+**Réalisé dans le cadre du cours:** video 2 <br>
+**Individuel ou en équipe:** en équipe <br>
+**Nom de vos coéquipiers:** edelwyn, Sabrina <br>
+**Votre ou vos rôle(s) dans le projet:** montage vidéo <br>
+**Logiciels ou techniques utilisées:** davinci resolve <br>
+**Catégorie du projet:** montage vidéo <br>
+**Description courte du projet (Résumé en 1 phrase):** un projet sur une fille dans un metro, lisant un livre et remarque vite qu'elle a changer de dimension, trouvant une fille identique à elle. <br>
+**Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):** ... montage video avec 3 screens <br>
 **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):** Nous voulions créer une ambiance mystérieuse en filmant notre acteur deux fois — incarnant deux personnages différents sur fond blanc — puis en montant ces deux versions dans une même vidéo. Nous avons également conçu une bande-son très intéressante pour instaurer cette atmosphère effrayante et mystérieuse.
 https://cmontmorency365-my.sharepoint.com/:f:/g/personal/2396043_cmontmorency_qc_ca/IgCtLzL24NtkTJBXe-mg-a4kAffVxBYRYKNpND4v7-MWQ80?e=UT0f9j
 
@@ -104,8 +104,8 @@ https://cmontmorency365-my.sharepoint.com/:f:/g/personal/2396043_cmontmorency_qc
 **Votre ou vos rôle(s) dans le projet:** animation 3d <br>
 **Logiciels ou techniques utilisées:** maya <br>
 **Catégorie du projet:** montage animation 3d <br>
-**Description courte du projet (Résumé en 1 phrase):**Une animation en 3D sur une petite fille dans son univers, s'enfonçant toujours plus profondément dans son imagination. <br>
-**Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):**une animation 3d qui correspond à l'émotion dans notre projet audio. <br>
+**Description courte du projet (Résumé en 1 phrase):** Une animation en 3D sur une petite fille dans son univers, s'enfonçant toujours plus profondément dans son imagination. <br>
+**Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):** une animation 3d qui correspond à l'émotion dans notre projet audio. <br>
 **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):**
 C'était difficile d'animer quelque chose autour de la nostalgie ; j'ai donc décidé d'animer une version d'elle plus enfantine et mignonne, telle qu'elle apparaît dans son imagination et ses souvenirs. <br>
 https://cmontmorency365-my.sharepoint.com/:f:/g/personal/2396043_cmontmorency_qc_ca/IgCtLzL24NtkTJBXe-mg-a4kAffVxBYRYKNpND4v7-MWQ80?e=UT0f9j
