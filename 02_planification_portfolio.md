@@ -62,7 +62,7 @@ Un poste en design, animation 2D/3D ou video.
 **Logiciels ou techniques utilisées:** davinci resolve, reaper
 **Catégorie du projet:** montage vidéo
 **Description courte du projet (Résumé en 1 phrase):** montage vidéo ésthétique avec une camera de rapprochement.
-**Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):**  
+**Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):** un montage video avec une camera de rapprochement. d'environ 1 minute avec un piste sonore.
 **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):** Nous avons réalisé un projet très inspiré de l'univers des sirènes, en mettant l'accent sur le maquillage et le visage tout en utilisant le même objectif. Nous avons privilégié les nuances de bleu et de violet pour coller à l'ambiance sous-marine, et avons choisi une bande-son qui s'harmonisait avec les vidéos, évoquant le calme et le mystère.
 https://cmontmorency365-my.sharepoint.com/:f:/g/personal/2396043_cmontmorency_qc_ca/IgCtLzL24NtkTJBXe-mg-a4kAffVxBYRYKNpND4v7-MWQ80?e=UT0f9j
 
@@ -75,9 +75,9 @@ https://cmontmorency365-my.sharepoint.com/:f:/g/personal/2396043_cmontmorency_qc
 **Nom de vos coéquipiers:** edelwyn, Sabrina
 **Votre ou vos rôle(s) dans le projet:** montage vidéo
 **Logiciels ou techniques utilisées:** davinci resolve
-**Catégorie du projet:**  
+**Catégorie du projet:** montage vidéo
 **Description courte du projet (Résumé en 1 phrase):** un projet sur une fille dans un metro, lisant un livre et remarque vite qu'elle a changer de dimension, trouvant une fille identique à elle.
-**Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):** ... montage video on 3 screens
+**Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):** ... montage video avec 3 screens
 **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):** Nous voulions créer une ambiance mystérieuse en filmant notre acteur deux fois — incarnant deux personnages différents sur fond blanc — puis en montant ces deux versions dans une même vidéo. Nous avons également conçu une bande-son très intéressante pour instaurer cette atmosphère effrayante et mystérieuse.
 https://cmontmorency365-my.sharepoint.com/:f:/g/personal/2396043_cmontmorency_qc_ca/IgCtLzL24NtkTJBXe-mg-a4kAffVxBYRYKNpND4v7-MWQ80?e=UT0f9j
 
@@ -92,7 +92,7 @@ https://cmontmorency365-my.sharepoint.com/:f:/g/personal/2396043_cmontmorency_qc
 **Catégorie du projet:** dessin illustration <br>
 **Description courte du projet (Résumé en 1 phrase):** dessin d'illustration de plusieur personnages et objets d'une couleur monochrome. <br>
 **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):** 6 dessins d'illustration et logo d'une couleur monochrome, qui te représente. <br>
-**Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):** j'ai dessiner 3 personnage et 3 objets avec mon logo that was intressting and matched the vibe of my characters (radio, airpod,) <br>
+**Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):** J'ai dessiné trois personnages et trois objets intégrant mon logo — des éléments comme une radio ou des AirPods, qui correspondaient bien à l'ambiance de mes personnages. J'ai réalisé ces illustrations dans un style Y2K, en utilisant une palette de couleurs bleues. <br>
 https://cmontmorency365-my.sharepoint.com/:f:/g/personal/2396043_cmontmorency_qc_ca/IgCtLzL24NtkTJBXe-mg-a4kAffVxBYRYKNpND4v7-MWQ80?e=UT0f9j
 
 # Projet 4
