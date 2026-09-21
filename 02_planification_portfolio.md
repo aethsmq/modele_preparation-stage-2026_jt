@@ -127,3 +127,6 @@ https://cmontmorency365-my.sharepoint.com/:f:/g/personal/2396043_cmontmorency_qc
 
 voici mon moodboard de mon concept animation 3d. je voulais quelque chose cute et nostalgique.
 <img width="999" height="562" alt="Screenshot (105) 1" src="https://github.com/user-attachments/assets/ead020f5-25ab-46d4-80d3-166ba571edb1" />
+
+voici mon moodboard de ce que je voulais modilisé en 3d/utilisé dans mon projet.
+<img width="1260" height="708" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/5e86349a-c19b-4cce-bf7e-efcd5f3fdfa3" />
